@@ -1,4 +1,12 @@
-### Hi there 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&color=FFFFFF&lines=Hi+there%2C+I'm+Kid+%F0%9F%91%8B" />
+<!--Github stats-->
+### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="25" /> Github Status
+<img src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" width="100%" height="25" />
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dracoolz&show_icons=true&theme=dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoolz&layout=compact&theme=dark" />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=dracoolz&theme=dark&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF" />
+</p>
 
 <!--
 **dracoolz/dracoolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
