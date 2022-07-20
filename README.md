@@ -57,7 +57,7 @@
 </p>
 <h2 align="center">Github Status</h2>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dracoolz&show_icons=true&theme=dark" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoolz&layout=compact&theme=dark" />
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=dracoolz&theme=dark&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dracoolz&show_icons=true&theme=dark" />
+  <img width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=dracoolz&theme=dark&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoolz&layout=compact&theme=dark" /> 
 </p>
