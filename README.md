@@ -63,7 +63,7 @@
 <img src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" width="100%" height="25" />
 <!--Github stats-->
 <p align="center">
-  <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="20%" /> 
+  <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="50" /> 
 </p>
 <h2 align="center">Github Status</h2>
 <p align="center">
