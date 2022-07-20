@@ -1,14 +1,4 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&color=FFFFFF&lines=Hi+there%2C+I'm+Kid+%F0%9F%91%8B" />
-
-<!--BIO-->
-<p align="center">
-  <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="50" />
-</p>
-<h2 align="center">About me</h2>
-<p align="center"> Computer Science, @ECC Computer専門学校 :jp:. Coding with Jazzhop is something.</p>
-
-<img src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" width="100%" height="25" />
-
 <!-- Language and Tools -->
 <p align="center">
   <img src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/giphy.gif" width="50" />
